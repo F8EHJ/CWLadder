@@ -94,3 +94,10 @@ plain `.ini` file rather than the Windows registry — see
 `AppSettings::settingsFilePath()` in `appsettings.cpp` for the exact
 portable/fallback location logic, and the Settings dialog, which
 displays the file actually in use.
+
+## Screeshots
+<img width="1102" height="782" alt="Image" src="https://github.com/user-attachments/assets/8f8b7f88-a94d-4b63-a4c7-dd345626bed9" />
+
+<img width="1098" height="776" alt="Image" src="https://github.com/user-attachments/assets/50b322ad-6bb0-4933-9eab-862062f99efe" />
+
+<img width="1227" height="823" alt="Image" src="https://github.com/user-attachments/assets/b1d0b110-cbfd-4887-ba46-8e1699977221" />

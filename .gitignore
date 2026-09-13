@@ -1,0 +1,34 @@
+# Dossiers de build (générés par CMake/Qt Creator, jamais versionnés :
+# ils sont différents sur chaque machine et se régénèrent avec
+# `cmake -B build && cmake --build build`).
+build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Fichiers Qt Creator propres à une machine (chemins locaux, kit choisi...).
+# À ne surtout pas commiter : c'est justement ce type de fichier qui a
+# provoqué l'erreur de chemin Windows rencontrée précédemment.
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+*.autosave
+
+# Objets et binaires compilés
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+
+# Traductions compilées (regénérées à partir des .ts par lupdate/lrelease
+# au moment du build ; seuls les .ts sources sont versionnés)
+*.qm
+
+# Fichiers d'IDE génériques
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db

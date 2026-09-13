@@ -1,0 +1,6 @@
+// Embeds the application icon directly into the Windows executable, so
+// Explorer, the taskbar, Alt-Tab and jump lists all show it even before
+// Qt has created any window (QApplication::setWindowIcon, set at
+// runtime in main.cpp, covers the running window's title bar/taskbar
+// icon; this covers the .exe file itself).
+IDI_ICON1 ICON "appicon.ico"

@@ -5,6 +5,7 @@ build/
 build-*/
 CMakeFiles/
 CMakeCache.txt
+dist/
 
 # Fichiers Qt Creator propres à une machine (chemins locaux, kit choisi...).
 # À ne surtout pas commiter : c'est justement ce type de fichier qui a

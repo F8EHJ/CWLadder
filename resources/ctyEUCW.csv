@@ -8,7 +8,7 @@
 C3,Andorra,203,^C3[A-Z0-9/]*$
 CT,Portugal,272,^C[Q-T][0-9]*[A-Z/]*$
 CU,Azores,149,^(CQ1|CQ8|CR1|CR2|CR8|CS4|CS8|CT8|CU)[A-Z0-9/]*$
-DL,Fed. Rep. of Germany,230,^(D[A-R]|Y[2-9])[A-Z0-9/]*$
+DL,Germany,230,^(D[A-R]|Y[2-9])[A-Z0-9/]*$
 E7,Bosnia-Herzegovina,501,^E7[A-Z0-9/]*$
 EA,Spain,281,^(A[M-O]|E[A-H])[A-Z0-9/]*$
 EA6,Balearic Islands,21,^(A[M-O]|E[A-H])6[A-Z0-9/]*$
@@ -58,7 +58,7 @@ SV/a,Mount Athos,180,
 SV5,Dodecanese,45,^(J4|S[V-Z])5[A-Z0-9/]*$
 SV9,Crete,40,^(J4|S[V-Z])9[A-Z0-9/]*$
 T7,San Marino,278,^T7[A-Z0-9/]*$
-*TA1,European Turkey,390,^(T[A-C]1|YM1)[A-Z0-9/]*$
+*TA1,Turkey,390,^(T[A-C]1|YM1)[A-Z0-9/]*$
 TF,Iceland,242,^TF[A-Z0-9/]*$
 TK,Corsica,214,^TK[A-Z0-9/]*$
 UA,European Russia,54,^UA[A-Z0-9/]*$
